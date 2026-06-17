@@ -60,7 +60,7 @@ export const PLATFORM_CONFIG: Record<Platform, {
   linkedin: {
     label: "LinkedIn",
     color: "#0077b5",
-    charLimit: 1300,
+    charLimit: 3000,
     bgClass: "bg-[#0077b5]",
     textClass: "text-[#0077b5]",
   },
@@ -81,7 +81,7 @@ export const PLATFORM_CONFIG: Record<Platform, {
   facebook: {
     label: "Facebook",
     color: "#1877f2",
-    charLimit: 500,
+    charLimit: 2500,
     bgClass: "bg-[#1877f2]",
     textClass: "text-[#1877f2]",
   },
